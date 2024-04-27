@@ -2,7 +2,7 @@
 - I’m interested in Artificial Intelligence and Machine Learning
 - I’m currently learning Python and Maths
 - I’m looking to collaborate on Open Source Projects
-- How to reach me through my email
+- How to reach me : through my email
 - Pronouns: He/Him
 - Fun fact: Nothing
 
